@@ -1,0 +1,21 @@
+
+# core
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+torch
+tqdm
+
+# PDFs & WEB
+pypdf
+requests
+beautifulsoup4
+
+# LLM (optional; for hypothesis generation)
+openai
+
+# utilities
+joblib
+pyyaml
